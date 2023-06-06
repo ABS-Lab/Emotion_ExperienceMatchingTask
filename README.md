@@ -2,8 +2,7 @@
 
 ### Task description and procedure is forthcoming pending submitted manuscript
 
-### Codes
-
+### Codes:
 #### Included - 1 = included, 0 = not included
 #### Gender - 1 = female, 2 = male, 3 - non-binary or other
 #### TAS-20 score ranges: Non-alexithymia (<= 51), Possible Alexithymia (52-60), Alexithymia (61<=)
